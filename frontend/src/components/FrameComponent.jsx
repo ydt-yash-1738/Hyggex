@@ -10,7 +10,7 @@ const FrameComponent = () => {
       <section className="w-[977px] flex flex-row items-start justify-start pt-0 px-[3px] pb-[16.8px] box-border max-w-full text-center text-13xl text-dimgray font-montserrat">
         <div className="flex-1 flex flex-col items-start justify-start gap-[56px] max-w-full mq675:gap-[28px]">
           <b className="relative inline-block text-transparent !bg-clip-text [background:linear-gradient(180deg,_#06286e,_#164ec0)] [-webkit-background-clip:text] [-webkit-text-fill-color:transparent] max-w-full mq450:text-lg mq750:text-7xl text-4xl">
-            Relations and Functions ( Mathematics )
+            Relations and Functions (Mathematics)
           </b>
           <div className="self-stretch flex flex-row items-start justify-end max-w-full text-left text-xl font-med">
             <div className="w-[712px] flex flex-col items-start justify-start gap-[31px] max-w-full mq750:gap-[15px]">
@@ -79,7 +79,7 @@ const FrameComponent = () => {
               </div>
               <div className="self-stretch flex flex-row items-start justify-start py-0 px-[50px] box-border max-w-full text-5xl text-darkslategray-200 mq750:pl-[25px] mq750:pr-[25px] mq750:box-border">
                 <div className="flex-1 flex flex-row items-start justify-between max-w-full gap-[20px] mq675:flex-wrap mq675:justify-center">
-                  <div className="flex flex-col items-start justify-start pt-[15px] px-0 pb-0">
+                  <div className="flex flex-col items-start justify-start mx-auto pt-[15px] px-0 pb-0">
                     <img
                       className="w-[30px] h-[30px] relative"
                       loading="lazy"
@@ -104,7 +104,7 @@ const FrameComponent = () => {
                       src={rightarrow}
                     />
                   </div>
-                  <div className="flex flex-col items-start justify-start pt-[15px] px-0 pb-0">
+                  <div className="flex flex-col items-start justify-start mx-auto pt-[15px] px-0 pb-0">
                     <img
                       className="w-[30px] h-[30px] relative"
                       alt=""
